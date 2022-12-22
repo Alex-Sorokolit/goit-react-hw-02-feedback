@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import FeedbackOptions from './FeedbackOptions/FeedbackOptions';
 import Statistics from './Statistics';
 import Section from './Section/Section';
-import Notification from './Notification /Notification ';
+import Notification from './Notification/Notification ';
 
 export class App extends Component {
   // Static
